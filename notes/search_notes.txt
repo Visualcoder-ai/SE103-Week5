@@ -1,0 +1,6 @@
+Student Name: Samson Baraka 
+What grep helped me do: The grep tool helped me search for specific text patterns inside a file. It allowed me to quickly isolate lines containing the word "error" without having to read the whole file manually.
+What find helped me do: The find command helped me locate files within a specific directory hierarchy based on their name. I used it to recursively search for all files ending in .txt within the shell_practice folder.
+What the pipe helped me do: The pipe (|) took the output of the first command (ls) and fed it directly as input to the second command (grep). This allowed me to filter a directory listing to only show files containing ".txt" in one seamless step.
+Difference between > and >>: The > operator redirects output to a file and overwrites the file's contents completely if it already exists. The >> operator redirects output to a file but appends it to the end, preserving any existing content.
+
