@@ -1,0 +1,5 @@
+Project owner: Samson Baraka
+Started my shell practice for week 5
+I encountered a syntax error while trying to run a command
+I corrected the command and had success running it
+Saving my outputs to a file helps me review them later

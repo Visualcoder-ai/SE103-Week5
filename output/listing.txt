@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 sam_baraka sam_baraka 4096 Oct 10 22:00 .
+drwxr-xr-x 7 sam_baraka sam_baraka 4096 Oct 10 21:58 ..
+-rw-r--r-- 1 sam_baraka sam_baraka    0 Oct 10 21:55 .gitkeep
+-rw-r--r-- 1 sam_baraka sam_baraka  231 Oct 10 22:01 journal.txt
