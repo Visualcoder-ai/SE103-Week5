@@ -1,0 +1,14 @@
+Student Name: Samson Baraka
+
+What I practiced in the shell:
+I practiced using output redirection operators to create and append to files without opening a text editor. I also used tools like grep and find to search for specific text patterns and locate files efficiently. Furthermore, I learned how to pipe the output of one command as the input to another command. This helped me chain multiple operations together to filter directory listings.
+
+How GitHub changed my submission habits:
+Using GitHub has made my submission process much more structured and version-controlled. Instead of just uploading a single final document, I now track my progress step-by-step using commits. It allows me to easily revert changes if I make a mistake and keeps a clear history of my work. This workflow also prepares me for collaborative software development environments.
+One mistake I made and how I fixed it: While trying to create a file, I pasted text directly into the terminal without using a text editor, which caused a 'command not found' error. I fixed this by using the cat command with a heredoc (EOF) to safely write the multi-line text into the target file.
+
+One mistake I made and how I fixed it:
+While trying to create a file, I pasted text directly into the terminal without using a text editor, which caused a 'command not found' error. I fixed this by using the cat command with a heredoc (EOF) to safely write the multi-line text into the target file.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly SE103-Week5 so that the automated grader can correctly identify and fetch my submission. If the name is misspelled or uses different casing, the grading script will fail to locate my work.
