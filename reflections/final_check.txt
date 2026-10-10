@@ -1,0 +1,6 @@
+Student Name: Samson Baraka Otieno
+GitHub Username: Visualcoder-ai
+Repository: SE103-Week5
+Repository URL: https://github.com/Visualcoder-ai/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time: Next time, I would like to improve my confidence in switching between branches and merging them via the terminal instead of relying solely on the GitHub web interface. I also plan to double-check my current working directory using the 'pwd' command before creating or adding files to avoid path errors.
