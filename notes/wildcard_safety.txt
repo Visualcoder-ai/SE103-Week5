@@ -1,0 +1,4 @@
+Student Name: Samson Baraka Otieno
+What * meant in my pattern: The * is a wildcard that matches zero or more characters, so data*.txt matched any file starting with 'data' and ending with '.txt'.
+Why I listed matches before copying: Listing the files first using 'ls' allows me to verify exactly which files the wildcard matches before performing an action that could unintentionally overwrite or modify files.
+Why wildcards are dangerous with delete commands: Using wildcards with commands like 'rm' is dangerous because a small typo, such as an accidental space, can cause the command to match and permanently delete everything in a directory instead of just the intended files.
