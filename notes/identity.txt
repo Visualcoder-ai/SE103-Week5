@@ -1,0 +1,4 @@
+Full Name: Samson Baraka
+GitHub Username: Visualcoder-ai
+Date Started: 10-10-2026
+Auth Method: PAT
